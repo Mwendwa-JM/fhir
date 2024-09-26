@@ -12,7 +12,7 @@ Description: "Kenya Patient Example"
 * telecom[].value = ema
 il
 *telecom[].system = "jeremumo@gmail.com"
-* name[+].family = "Joseph"
+* name[+].family = "Mwendwa"
 * name[=].given[+] = "mumo"
 * name[=].given[+] = "Mutheu"
 * name[=].given[+] = "Pre"
