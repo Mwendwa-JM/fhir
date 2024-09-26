@@ -13,7 +13,7 @@ Description: "Kenya Patient Example"
 il
 *telecom[].system = "jeremumo@gmail.com"
 * name[+].family = "Mwendwa"
-* name[=].given[+] = "mumo"
+* name[=].given[+] = "Jeremiah"
 * name[=].given[+] = "Mutheu"
 * name[=].given[+] = "Pre"
 * gender = #female
