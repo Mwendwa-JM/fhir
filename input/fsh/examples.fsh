@@ -8,7 +8,7 @@ Description: "Kenya Patient Example"
 * identifier[NID].value = "0012016867"
 * identifier[NID].system = "http://jembi.org/fhir/kenya-training-mumo/identifier/nid"
 * telecom[+].system = #phone
-* telecom[=].value = "0710370820"
+* telecom[=].value = "0710370821"
 * telecom[].value = ema
 il
 *telecom[].system = "jeremumo@gmail.com"
