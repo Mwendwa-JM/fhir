@@ -9,9 +9,8 @@ Description: "Kenya Patient Example"
 * identifier[NID].system = "http://jembi.org/fhir/kenya-training-mumo/identifier/nid"
 * telecom[+].system = #phone
 * telecom[=].value = "0710370821"
-* telecom[].value = ema
-il
-*telecom[].system = "jeremumo@gmail.com"
+* telecom[+].system = #email
+* telecom[=].value = "jeremumo@gmail.com"
 * name[+].family = "Mwendwa"
 * name[=].given[+] = "Jeremiah"
 * name[=].given[+] = "Mutheu"
