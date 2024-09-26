@@ -22,7 +22,7 @@ il
 * address.city = "Maanzoni"
 * address.line = "Ndege"
 * address.district = "Machakos"
-* address.state = "Eastern"
+* address.state = "Coast"
 * address.country = "KEN"
 * extension[KPS].valueCodeableConcept.coding.code = #472986005
 * extension[KPS].valueCodeableConcept.coding.system = $SCT
